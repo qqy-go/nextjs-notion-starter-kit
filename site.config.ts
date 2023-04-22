@@ -17,7 +17,7 @@ export default siteConfig({
   description: '记录·分享',
 
   // social usernames (optional)
-  twitter: '',
+  twitter: 'hh',
   github: 'qqy-go',
   linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
