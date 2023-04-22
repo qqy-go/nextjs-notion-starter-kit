@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'qqy blog',
+  name: 'qqy-blog',
   domain: 'blog.quon.one',
   author: 'qqy',
 
